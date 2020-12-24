@@ -20,7 +20,7 @@ git push origin main
 
 printf "\033[0;32mAdding to Github pages...\033[0m\n"
 # Go To Public folder
-cp -r public ../kohtaroyamakawa.github.io
+cp -r public/* ../kohtaroyamakawa.github.io
 cd ../kohtaroyamakawa.github.io
 # Add changes to git.
 git add .
