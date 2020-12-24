@@ -16,7 +16,7 @@ if [ -n "$*" ]; then
 	msg="$*"
 fi
 git commit -m "$msg"
-git push origin master
+git push origin main
 
 printf "\033[0;32mAdding to Github pages...\033[0m\n"
 # Go To Public folder
