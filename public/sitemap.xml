@@ -5,38 +5,54 @@
   <url>
     <loc>kohtaroyamakawa.github.io/testpage2/</loc>
     <lastmod>2020-12-22T22:10:13-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>kohtaroyamakawa.github.io/bookshelf/</loc>
     <lastmod>2020-12-22T21:26:00-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>kohtaroyamakawa.github.io/blog/</loc>
     <lastmod>2020-12-22T21:25:54-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>kohtaroyamakawa.github.io/</loc>
     <lastmod>2020-12-22T21:25:48-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>kohtaroyamakawa.github.io/about/</loc>
     <lastmod>2020-12-22T21:15:49-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>kohtaroyamakawa.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>kohtaroyamakawa.github.io/blog/phdblog/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>kohtaroyamakawa.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
