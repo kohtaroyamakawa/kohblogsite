@@ -1,0 +1,84 @@
+title = "Kohtaro Yamakawa"
+baseURL = "kohtaroyamakawa.github.io"
+languageCode = "en-us"
+theme = "ananke"
+themesDir = "./themes/"
+#sectionPagesMenu="main"
+#builddrafts                = false
+#canonifyurls               = true
+#contentdir                 = "content"
+#layoutdir                  = "layouts"
+#publishdir                 = "public"
+#enableEmoji                = true
+#hasCJKLanguage             = true
+#summaryLength              = 200
+#Paginate                   = 3
+
+
+pygmentsuseclasses         = true
+
+
+[permalinks]
+  blog                     = "blog/:year-:month/:slug/"
+
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+  [[menu.main]]
+    name                   = "Blog"
+    weight                 = -120
+    identifier             = "blog"
+    url                    = "blog/"  
+
+  [[menu.main]]
+    name                   = "Bookshelf"
+    weight                 = -110
+    identifier             = "bookshelf"
+    url                    = "bookshelf/" 
+
+  [[menu.main]]
+    name                   = "About"
+    weight                 = -100
+    identifier             = "about"
+    url                    = "about/"  
+
+ 
+
+[params]
+  faviconfile              = "img/huang.png"               # from static/
+  avatar                   = "img/me.jpg"             # path to image in static dir e.g img/avatar.png 
+  author                   = "Justin Wong"
+  description              = ["Real poetry, is to lead a beautiful life.", "To live poetry is better than to write it.", "- Matsuo Basho"]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Welcome to My Academic Homepage"
+  welcome_word             = "And this is why I've changed my attitude towards apples, not through an act of will, but as a result of having seen and understood more. ~Karl Ov Knausgaard"
+
+  latestpostscount         = 5                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  slidesDirPath            = "static/img/header-slides"    # path to image in local dir (path for hugo)
+  slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
+
+  # highlighting 
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  email                    = "justin.wong@columbia.edu"
+  github                   = "//github.com/jwong8314"
+  linkedin                 = "//linkedin.com/in/justin-wong-23155411b"
+  instagram                = "//instagram.com/roitishk"
+  include_rss              = false                # include RSS <link> tag in <head> and show RSS icon
+  
+  # analytics
+#  googleAnalytics          = "UA-148988821-1"

@@ -1,0 +1,7 @@
+title = "Kohtaro Yamakawa is dope"
+baseURL = "kohtaroyamakawa.github.io"
+languageCode = "en-us"
+theme = "ananke"
+themesDir = "./themes/"
+sectionPagesMenu="main"
+

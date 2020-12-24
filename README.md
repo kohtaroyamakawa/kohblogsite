@@ -1,1 +1,2 @@
-# kohblogsite
+# blogsite
+Implementing hugo site
