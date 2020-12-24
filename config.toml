@@ -16,7 +16,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+    body_classes = "georgia bg-near-white"
+  favicon = "img/kohavatar.png"
   site_logo = "img/kohavatar.png"
   description = "The last theme you'll ever need. Maybe."
 #  facebook = ""
