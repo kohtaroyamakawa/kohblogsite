@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kohtaro Yamakawa is dope</title>
+    <link>kohtaroyamakawa.github.io/</link>
+    <description>Recent content on Kohtaro Yamakawa is dope</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Dec 2020 21:25:48 -0800</lastBuildDate><atom:link href="kohtaroyamakawa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpage2</title>
+      <link>kohtaroyamakawa.github.io/testpage2/</link>
+      <pubDate>Tue, 22 Dec 2020 22:10:13 -0800</pubDate>
+      
+      <guid>kohtaroyamakawa.github.io/testpage2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>kohtaroyamakawa.github.io/about/</link>
+      <pubDate>Tue, 22 Dec 2020 21:15:49 -0800</pubDate>
+      
+      <guid>kohtaroyamakawa.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

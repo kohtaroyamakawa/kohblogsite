@@ -7,7 +7,7 @@ rm -rf public
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -D # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Gi push on to original
 git add .
@@ -16,7 +16,7 @@ if [ -n "$*" ]; then
 	msg="$*"
 fi
 git commit -m "$msg"
-git push origin main
+git push
 
 printf "\033[0;32mAdding to Github pages...\033[0m\n"
 # Go To Public folder
@@ -33,4 +33,4 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin main
+git push
