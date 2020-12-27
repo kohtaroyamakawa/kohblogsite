@@ -22,13 +22,13 @@ enableRobotsTXT = true
     url = "/blog/"
     weight = 2
   [[menu.main]]
-    name = "About"
+    name = "About MEEE"
     url = "/about/"
     weight = 3
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+#[sitemap]
+#  changefreq = "monthly"
+#  priority = 0.5
+#  filename = "sitemap.xml"
 
 [params]
     body_classes = "georgia bg-near-white"
