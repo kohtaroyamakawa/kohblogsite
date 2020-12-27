@@ -2,7 +2,7 @@
 title: "Blog"
 date: 2020-12-22T21:25:54-08:00
 draft: false
-menu: main
+#menu: main
 ---
 This is more for my own sake but here I try to keep track of my academic journey.
 # [PhD Blog](/blog/phdblog/)

@@ -2,7 +2,7 @@
 title: "Bookshelf"
 date: 2020-12-22T21:26:00-08:00
 draft: false
-menu: main
+#menu: main
 ---
 I'm definitely more of a reader than a writer.  Like all people, I have some opinions.  
 

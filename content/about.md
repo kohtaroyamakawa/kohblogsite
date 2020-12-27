@@ -3,7 +3,7 @@ title: "About Me"
 linktitle: "About"
 date: 2020-12-22T21:15:49-08:00
 draft: false
-menu: "main"
+#menu: "main"
 #featured_image: "img/kohavatar.png"
 ---
 Hello! I am a physics PhD student at UC Berkeley.  I graduated Dublin Scioto HS in 2016 and Columbia University in 2020 with a major in physics and mathematics.
