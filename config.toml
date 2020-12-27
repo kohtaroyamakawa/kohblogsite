@@ -5,11 +5,26 @@ theme = "ananke"
 themesDir = "./themes/"
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
+#SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    pre = "edit"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
