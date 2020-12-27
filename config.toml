@@ -1,4 +1,5 @@
 title = "Koh Yamakawa"
+#Commented out so that doesn't repeat baseURL with menu items
 #baseURL = "kohtaroyamakawa.github.io"
 languageCode = "en-us"
 theme = "ananke"
@@ -24,6 +25,10 @@ enableRobotsTXT = true
   [[menu.main]]
     name = "About"
     url = "/about/"
+    weight = 3
+  [[menu.main]]
+    name = "Taiko"
+    url = "/abouttaiko"
     weight = 3
 #[sitemap]
 #  changefreq = "monthly"
