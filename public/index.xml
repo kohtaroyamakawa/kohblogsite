@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Koh Yamakawa</title>
-    <link>kohtaroyamakawa.github.io/</link>
+    <link>/</link>
     <description>Recent content on Koh Yamakawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Dec 2020 21:25:48 -0800</lastBuildDate><atom:link href="kohtaroyamakawa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Dec 2020 21:25:48 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Semester</title>
-      <link>kohtaroyamakawa.github.io/blog/phdblog/firstsemester/</link>
+      <link>/blog/phdblog/firstsemester/</link>
       <pubDate>Thu, 24 Dec 2020 15:00:22 -0800</pubDate>
       
-      <guid>kohtaroyamakawa.github.io/blog/phdblog/firstsemester/</guid>
+      <guid>/blog/phdblog/firstsemester/</guid>
       <description>Hello folks!
 Welcome to the first posting in my PhD blog. I hope to continue this throughout my five year journey.</description>
     </item>
     
     <item>
       <title>Starting a Taiko site</title>
-      <link>kohtaroyamakawa.github.io/taiko/firstpost/</link>
+      <link>/taiko/firstpost/</link>
       <pubDate>Thu, 24 Dec 2020 14:32:51 -0800</pubDate>
       
-      <guid>kohtaroyamakawa.github.io/taiko/firstpost/</guid>
+      <guid>/taiko/firstpost/</guid>
       <description>Under inspiration from the superb personal site of Kris Bergstrom, I&amp;rsquo;ll start curating my first personal site on Taiko. I don&amp;rsquo;t aim really to give any instruction or information to any students but I might post some useful links and thoughts that I&amp;rsquo;ve had on my Taiko journey!
 Documenting and publishing, albeit to an audience of measure zero, is a process that I want to immerse myself in both so that I can look back on my own progress in the future and maybe even organize my thoughts.</description>
     </item>
     
     <item>
       <title>Taiko</title>
-      <link>kohtaroyamakawa.github.io/abouttaiko/</link>
+      <link>/abouttaiko/</link>
       <pubDate>Thu, 24 Dec 2020 14:32:51 -0800</pubDate>
       
-      <guid>kohtaroyamakawa.github.io/abouttaiko/</guid>
+      <guid>/abouttaiko/</guid>
       <description>Here is my Taiko site!
 I started playing Taiko with the Dublin Taiko Group in Dublin, Ohio from sixth grade until I graduated high school. Since the group was started by Hayashi Eitetsu in 2003, we played his compositions Senno Kaikyo, Umi no Hojo, and Michi wo Yukuhito. The group often hosted workshops from other taiko stars including Shoji Kameda, Masato Baba, Eien Ishikawa, Kris Bergstrom, Joe Small, and more. After graduating high school, I went to Columbia University where I played with Columbia University Taiko.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>kohtaroyamakawa.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Tue, 22 Dec 2020 21:15:49 -0800</pubDate>
       
-      <guid>kohtaroyamakawa.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Hello! I am a physics PhD student at UC Berkeley. I graduated Dublin Scioto HS in 2016 and Columbia University in 2020 with a major in physics and mathematics.
 Here is my Resume and CV Publications Click the link to learn more!
   Two-Dimensional Time-Reversal-Invariant Topological Insulators via Fredholm Theory [Math. Physics 2020]   Probing the quantum phase transition in Mott insulator BaCoS2 tuned by pressure and Ni substitution [Phys.</description>

@@ -1,5 +1,5 @@
 title = "Koh Yamakawa"
-baseURL = "kohtaroyamakawa.github.io"
+#baseURL = "kohtaroyamakawa.github.io"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "./themes/"
@@ -22,7 +22,7 @@ enableRobotsTXT = true
     url = "/blog/"
     weight = 2
   [[menu.main]]
-    name = "About MEEE"
+    name = "About"
     url = "/about/"
     weight = 3
 #[sitemap]
