@@ -37,5 +37,5 @@ I am currently a Graduate Student Instructor (GSI) for Fall 2020 PHYS 7B Physics
 
 - Fall 2019 TA for PHYS 3007
 
-In my free time I like to go to cafe's and play taiko.
+In my free time I like to go to cafe's and play taiko.  
 

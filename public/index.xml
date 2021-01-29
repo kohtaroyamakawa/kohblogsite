@@ -8,6 +8,27 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Dec 2020 21:25:48 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Normal</title>
+      <link>/bookshelf/normal/</link>
+      <pubDate>Thu, 31 Dec 2020 13:05:02 -0800</pubDate>
+      
+      <guid>/bookshelf/normal/</guid>
+      <description>Fantasy Eragon by Christopher Paolini
+Science Fiction The Story of your life by Ted Chiang
+Culture Clash Jhumpa Lahiri</description>
+    </item>
+    
+    <item>
+      <title>Taikotube</title>
+      <link>/taiko/taikotube/</link>
+      <pubDate>Wed, 30 Dec 2020 11:08:30 -0800</pubDate>
+      
+      <guid>/taiko/taikotube/</guid>
+      <description>Since Youtube has a terrible organization system, here is where I will organize my playlists! For those who have their own youtube/streaming sites, I have added those as well.
+Eitetsu Fuun No Kai   Shuichiro Ueda Mikita Hase  Tashiro Makoto  Tsuji Tasuku  Taniguchi Takuya Kimura Yuichi  Small Joe  American Taiko  Kenny Endo at Taiko Center of the Pacific with Kenny Endo Taiko Ensemble  Yuta Kato  Kris Bergstrom  Michelle Fujii   Other Taiko Either uncategorized or doesn&amp;rsquo;t fit my categories</description>
+    </item>
+    
+    <item>
       <title>First Semester: Fall 2020</title>
       <link>/blog/phdblog/firstsemester/</link>
       <pubDate>Thu, 24 Dec 2020 15:00:22 -0800</pubDate>
@@ -34,8 +55,22 @@ Documenting and publishing, albeit to an audience of measure zero, is a process 
       <pubDate>Thu, 24 Dec 2020 14:32:51 -0800</pubDate>
       
       <guid>/abouttaiko/</guid>
-      <description>Here is my Taiko site!
-I started playing Taiko with the Dublin Taiko Group in Dublin, Ohio from sixth grade until I graduated high school. Since the group was started by Hayashi Eitetsu in 2003, we played his compositions Senno Kaikyo, Umi no Hojo, and Michi wo Yukuhito. The group often hosted workshops from other taiko stars including Shoji Kameda, Masato Baba, Eien Ishikawa, Kris Bergstrom, Joe Small, and more. After graduating high school, I went to Columbia University where I played with Columbia University Taiko.</description>
+      <description>Taiko is a modern art form, originated from the 1950&amp;rsquo;s counterculture movement after the American Occupation of Japan ended. As it spread to America in the 70&amp;rsquo;s, it soon became an art for expression in the Japanese American community. Since then, thousands of Taiko groups have been formed throughout the world, known as the &amp;ldquo;Taiko Boom&amp;rdquo;.
+My Background I started playing Taiko with the Dublin Taiko Group in Dublin, Ohio from sixth grade until I graduated high school.</description>
+    </item>
+    
+    <item>
+      <title>Bookshelf</title>
+      <link>/bookshelf/physics/</link>
+      <pubDate>Tue, 22 Dec 2020 21:26:00 -0800</pubDate>
+      
+      <guid>/bookshelf/physics/</guid>
+      <description>The road to learning physics meanders. Here&amp;rsquo;s some literature to help on the way.
+Mechanics  Goldstein  Quantum Mechanics Griffiths Shankar
+Statistical Mechanics Kittel- Basics and no more
+Electromagnetism Griffiths Jackson
+Condensed Matter Kittel Ashcroft and Mermin Girvin
+Quantum Field Theory Blundell</description>
     </item>
     
     <item>
