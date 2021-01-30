@@ -13,10 +13,10 @@ After graduating high school, I went to Columbia University where I played with 
 
 While in college, I also played with the Osuwa Style group, New York Taiko Aiko Kai from 2017-2020.  There, I learned most of the repertoire of Osuwa Daiko, along with that of Hiro Kurashima, the director of the New York Suwa Taiko Association and Taiko Masala.
 
-I'll try to write about taiko here in my [taiko blog.](/taiko)  I'm also super proud of my [youtube playlists.](/taiko/taikotube/)
+I'll try to write about taiko here in my [taiko blog.](/taiko)  I'm also super proud of my [youtube playlists.](/taiko/taikotube/)  Check my recent [performances](/taiko/performances) here.
 
 ### Compositions
 
-Hyakujyuu no Ou
+Hyakujyuu no Ou (a CU Taiko piece)
 
 Zubon (in progress)
