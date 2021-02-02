@@ -19,10 +19,10 @@
     
     <item>
       <title>First Semester: Fall 2020</title>
-      <link>/blog/phdblog/firstsemester/</link>
+      <link>/blog/phdblog/year1_fallsem/</link>
       <pubDate>Thu, 24 Dec 2020 15:00:22 -0800</pubDate>
       
-      <guid>/blog/phdblog/firstsemester/</guid>
+      <guid>/blog/phdblog/year1_fallsem/</guid>
       <description>Hello folks!
 Welcome to the first posting in my PhD blog. I hope to continue this throughout my five year journey.
 This last year has been an ordeal. I had graduated Columbia at the beginning of the COVID-19 pandemic taking my commencement ceremony sitting on my couch at home. We took the 2-3 hours to listen to the commencement ceremony and that was it: the ending of my undergraduate career. It felt a bit empty but it was that way for everyone.</description>
@@ -60,6 +60,17 @@ Statistical Mechanics Kittel- Basics and no more
 Electromagnetism Griffiths Jackson
 Condensed Matter Kittel Ashcroft and Mermin Girvin
 Quantum Field Theory Blundell</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/blog/</link>
+      <pubDate>Tue, 22 Dec 2020 21:25:54 -0800</pubDate>
+      
+      <guid>/blog/</guid>
+      <description>This is more for my own sake but here I try to keep track of my academic journey.
+PhD Blog  My time at Berkeley starting mid pandemic in Fall 2020 to the present.
+Ugrad Blog  My time at Columbia from Fall 2016 to Spring 2020</description>
     </item>
     
     <item>

@@ -20,7 +20,7 @@ enableRobotsTXT = true
   [[menu.main]]
     name = "Blog"
     pre = "edit"
-    url = "/blog/"
+    url = "/blog"
     weight = 2
   [[menu.main]]
     name = "About"
@@ -50,3 +50,4 @@ enableRobotsTXT = true
   featured_image = "/img/qm.jpeg"
   featured_image_caption =  "Getty Images/iStockphoto"
   recent_posts_number = 2
+    summaryLength = 0
