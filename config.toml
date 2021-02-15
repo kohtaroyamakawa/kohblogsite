@@ -30,6 +30,10 @@ enableRobotsTXT = true
     name = "Taiko"
     url = "/abouttaiko"
     weight = 3
+  [[menu.main]]
+    name = "Bookshelf"
+    url = "/bookshelf"
+    weight = 3
 #[sitemap]
 #  changefreq = "monthly"
 #  priority = 0.5
