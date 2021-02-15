@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2021-01-30T15:29:27-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/phdblog/</loc>
     <lastmod>2021-01-30T15:29:27-08:00</lastmod>
   </url>
@@ -54,11 +49,6 @@
   
   <url>
     <loc>/bookshelf/physics/</loc>
-    <lastmod>2020-12-22T21:26:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/bookshelf/</loc>
     <lastmod>2020-12-22T21:26:00-08:00</lastmod>
   </url>
   

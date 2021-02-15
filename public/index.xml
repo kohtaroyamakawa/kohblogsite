@@ -60,16 +60,6 @@ My Background I started playing Taiko with the Dublin Taiko Group in Dublin, Ohi
     
     <item>
       <title>Bookshelf</title>
-      <link>/bookshelf/</link>
-      <pubDate>Tue, 22 Dec 2020 21:26:00 -0800</pubDate>
-      
-      <guid>/bookshelf/</guid>
-      <description>I&amp;rsquo;m definitely more of a reader than a writer. Like all people, I have some opinions.
-Back in the day, CDs and albums belonged on bookshelves as well&amp;hellip; so if you want to know what I listen to, my spotify is here. Physics Books  Normal Books  </description>
-    </item>
-    
-    <item>
-      <title>Bookshelf</title>
       <link>/bookshelf/physics/</link>
       <pubDate>Tue, 22 Dec 2020 21:26:00 -0800</pubDate>
       
@@ -80,17 +70,6 @@ Statistical Mechanics Kittel- Basics and no more
 Electromagnetism Griffiths Jackson
 Condensed Matter Kittel Ashcroft and Mermin Girvin
 Quantum Field Theory Blundell</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>/blog/</link>
-      <pubDate>Tue, 22 Dec 2020 21:25:54 -0800</pubDate>
-      
-      <guid>/blog/</guid>
-      <description>This is more for my own sake but here I try to keep track of my academic journey.
-PhD Blog  My time at Berkeley starting mid pandemic in Fall 2020 to the present.
-Ugrad Blog  My time at Columbia from Fall 2016 to Spring 2020</description>
     </item>
     
     <item>
