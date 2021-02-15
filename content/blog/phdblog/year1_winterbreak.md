@@ -1,7 +1,7 @@
 ---
 title: "Year 1: Winterbreak"
 date: 2021-01-30T15:29:27-08:00
-draft: true
+draft: false
 ---
 With COVID, I didn't go home for the winter break.  But I wasn't sad.  I got the Graduate Remote Instructor Fellowship to study different ways of planning for the (hopefully last) remote semester.  I got to seemy partner a lot and explored Berkeley as much as we could.  I even got work on my Taiko.  It was nice.
 # Living alone
@@ -15,16 +15,11 @@ When my new suite mate was about to move in, I went to quarentine from them at m
 
 It was a wonderful way to see all the sights of Berkeley that I never got to see.  From the anxiety of covid, to the busy first PhD semester, to even the lack of a car, I had yet to explore this great city and its sights.  I hope I can continue Berkeley throughout the semester and call this place home.
 
-## Sights
-Point Reyes: Pierce Ranch
-Redwood Regional Park, 
-San Francisco
-    Golden Gate
-    Coite Tower
-    Pier 39
-    In-n-out
-    Golden Gate Bridge
-Sunset on Cesar Chavez Park
-Sunset on Grizzly Peak
+## New Experiences
+Point Reyes (Pierce Ranch), Redwood Regional Park, San Francisco (Golden Gate, Coite Tower, Pier 39, In-n-out, Golden Gate Bridge, Sunset on Cesar Chavez Park, Sunset on Grizzly Peak
+
+{{< figure src="/img/blog/2021/IMG_6474.jpg" title="Golden Gate Bridge with my partner and her dad" >}}
+{{< figure src="/img/blog/2021/IMG_6481.jpg" title="Sunset at Cesar Chavez Park" >}}
+
 
 
