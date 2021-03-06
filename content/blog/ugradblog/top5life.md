@@ -1,7 +1,7 @@
 ---
 title: "Top 5 things I learned about life"
 date: 2021-01-30T00:16:01-08:00
-draft: true
+draft: false
 ---
 I learned a lot in college, inside and out of classes.  There's a tendency to think that just because we are learning so much inside the classroom means that we know a lot about life.  I think we all learn at different paces about different parts of life.  Here's what I found to be true while in undergrad.
 
@@ -16,7 +16,8 @@ A lot of people learn the importance of mental health in college and I was no ex
 # 3. Friends 
 I thank my partner for helping me realize this.  The people in your life aren't categorized as your friends and as your not-friends.  There are those you care deeply about and send gifts to on their birthdays.  There are others that you check up on every month or week or year.  And then there are those that are simply there.  When something happens between you and a friend that either takes too much headspace or distances you in some way, I found that recalibrating how much you spend your time thinking of them, how you show your affection towards them, is often easier.  Letting go of one kind of care for another can help you continue to live your life and let them live theirs.  I have friends who I know will never be my best friends.  I have others whoused to be my best friends but no longer are.  Taking these people in stride and making sure you aren't burdening yourself in maintaining friends is important.  Friendship is supposed to be easy.  If it isn't, that's bad.
 
-# 3. 
+# 4. Everyone takes their own journey
+I met a lot of different kinds of people.  each one had arrived to Columbia after living a lot of bit of different kinds of life.  One had just returned from serving in the army.  Another transferred from community college. Others sought to get an education after leaving a past life.  Each person has their own struggles and experiences that they went through and spending time with each and every one of them was a reward onto itself.
 
 
 # 5. Life has no "meaning".
