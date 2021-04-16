@@ -2,7 +2,8 @@ title = "Koh Yamakawa"
 #Commented out so that doesn't repeat baseURL with menu items
 #baseURL = "kohtaroyamakawa.github.io"
 languageCode = "en-us"
-theme = "ananke"
+#theme = "ananke"
+theme = "hugo-coder"
 themesDir = "./themes/"
 
 DefaultContentLanguage = "en"
@@ -40,10 +41,14 @@ enableRobotsTXT = true
 #  filename = "sitemap.xml"
 
 [params]
+author = "Koh Yamakawa"
+description = "Koh's personal website"
+keywords = "physicist, taiko artist, coffee addict"
+info = "PhD student at UC Berkeley"
+avatarURL = "img/kohavatar.png"
     body_classes = "georgia bg-near-white"
   favicon = "img/kohavatar.png"
   site_logo = "img/kohavatar.png"
-  description = "The last theme you'll ever need. Maybe."
 #  facebook = ""
   email                    = "kohtaro_yamakawa@berkeley.edu"
   github                   = "//github.com/kohtaroyamakawa"
