@@ -8,7 +8,7 @@ themesDir = "./themes/"
 
 DefaultContentLanguage = "en"
 #SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -19,22 +19,22 @@ enableRobotsTXT = true
     url = "/"
     weight = 1
   [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
     name = "Blog"
     pre = "edit"
     url = "/blog"
-    weight = 2
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
     weight = 3
   [[menu.main]]
     name = "Taiko"
     url = "/abouttaiko"
-    weight = 3
+    weight = 5
   [[menu.main]]
     name = "Bookshelf"
     url = "/bookshelf"
-    weight = 3
+    weight = 4
 #[sitemap]
 #  changefreq = "monthly"
 #  priority = 0.5
