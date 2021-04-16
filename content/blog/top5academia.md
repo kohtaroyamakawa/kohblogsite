@@ -1,5 +1,5 @@
 ---
-title: "Top 5 things I learned about academics"
+title: "Top 5 things I learned about academics in undergrad"
 date: 2021-01-28T22:44:57-08:00
 draft: false
 ---

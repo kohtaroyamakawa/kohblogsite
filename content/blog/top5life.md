@@ -1,5 +1,5 @@
 ---
-title: "Top 5 things I learned about life"
+title: "Top 5 things I learned about life in undergrad"
 date: 2021-01-30T00:16:01-08:00
 draft: false
 ---
