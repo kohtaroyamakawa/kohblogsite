@@ -32,7 +32,7 @@ hideColorSchemeToggle = false
   [[menu.main]]
     name = "Blog"
     pre = "edit"
-    url = "/blog"
+    url = "/posts"
     weight = 3
   [[menu.main]]
     name = "Taiko"
@@ -47,6 +47,11 @@ hideColorSchemeToggle = false
 #  priority = 0.5
 #  filename = "sitemap.xml"
 
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
 [params]
     author = "Koh Yamakawa"
     description = "Koh's personal website"

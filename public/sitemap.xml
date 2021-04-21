@@ -3,37 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/tags/berkeley/</loc>
     <lastmod>2021-02-26T10:53:40-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/onlineclasses/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-02-26T10:53:40-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/year1_feb/</loc>
+    <loc>/categories/</loc>
+    <lastmod>2021-02-26T10:53:40-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/covid/</loc>
+    <lastmod>2021-02-26T10:53:40-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/phd/</loc>
+    <lastmod>2021-02-26T10:53:40-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-26T10:53:40-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/onlineclasses/</loc>
+    <lastmod>2021-02-26T10:53:40-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/year1_feb/</loc>
     <lastmod>2021-02-23T00:25:34-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/year1_winterbreak/</loc>
+    <loc>/tags/year1/</loc>
+    <lastmod>2021-02-23T00:25:34-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/year1_winterbreak/</loc>
     <lastmod>2021-01-30T15:29:27-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/top5life/</loc>
+    <loc>/tags/columbia/</loc>
     <lastmod>2021-01-30T00:16:01-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/top5academia/</loc>
+    <loc>/tags/top-5/</loc>
+    <lastmod>2021-01-30T00:16:01-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/top5life/</loc>
+    <lastmod>2021-01-30T00:16:01-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/undergrad/</loc>
+    <lastmod>2021-01-30T00:16:01-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/top5academia/</loc>
     <lastmod>2021-01-28T22:44:57-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/year1_fallsem/</loc>
+    <loc>/posts/year1_fallsem/</loc>
     <lastmod>2020-12-24T15:00:22-08:00</lastmod>
   </url>
   
@@ -73,11 +118,11 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/series/</loc>
   </url>
   
 </urlset>

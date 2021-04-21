@@ -5,6 +5,52 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Koh Yamakawa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Feb 2021 10:53:40 -0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berkeley</title>
+      <link>/tags/berkeley/</link>
+      <pubDate>Fri, 26 Feb 2021 10:53:40 -0800</pubDate>
+      
+      <guid>/tags/berkeley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID</title>
+      <link>/tags/covid/</link>
+      <pubDate>Fri, 26 Feb 2021 10:53:40 -0800</pubDate>
+      
+      <guid>/tags/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Year1</title>
+      <link>/tags/year1/</link>
+      <pubDate>Tue, 23 Feb 2021 00:25:34 -0800</pubDate>
+      
+      <guid>/tags/year1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Columbia</title>
+      <link>/tags/columbia/</link>
+      <pubDate>Sat, 30 Jan 2021 00:16:01 -0800</pubDate>
+      
+      <guid>/tags/columbia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top 5</title>
+      <link>/tags/top-5/</link>
+      <pubDate>Sat, 30 Jan 2021 00:16:01 -0800</pubDate>
+      
+      <guid>/tags/top-5/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

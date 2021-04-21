@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Top 5 on Koh Yamakawa</title>
+    <link>/tags/top-5/</link>
+    <description>Recent content in Top 5 on Koh Yamakawa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jan 2021 00:16:01 -0800</lastBuildDate><atom:link href="/tags/top-5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 things I learned about life in undergrad</title>
+      <link>/posts/top5life/</link>
+      <pubDate>Sat, 30 Jan 2021 00:16:01 -0800</pubDate>
+      
+      <guid>/posts/top5life/</guid>
+      <description>I learned a lot in college, inside and out of classes. There&amp;rsquo;s a tendency to think that just because we are learning so much inside the classroom means that we know a lot about life. I think we all learn at different paces about different parts of life. Here&amp;rsquo;s what I found to be true while in undergrad.
+1. People are walking contradictions    Especially towards the beginning, I used to really dislike people.</description>
+    </item>
+    
+    <item>
+      <title>Top 5 things I learned about academics in undergrad</title>
+      <link>/posts/top5academia/</link>
+      <pubDate>Thu, 28 Jan 2021 22:44:57 -0800</pubDate>
+      
+      <guid>/posts/top5academia/</guid>
+      <description>Being a physics and math major was tough not only in terms of workload but also in getting acclimated to its difficulties. Here&amp;rsquo;s a top 5 list of things I learned while at Columbia!
+1. Physics is physical    To me, understanding physics used to mean understanding equations and being able to solve complex problems. However, in doing my major, I discovered the importance of intuition in physics. Creating, leading and developing a practical picture of the world not only helps you approach and solve problems but also gain a deeper understanding of novel phenomena.</description>
+    </item>
+    
+  </channel>
+</rss>
