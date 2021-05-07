@@ -5,7 +5,7 @@ draft: true
 ---
 Since Youtube has a terrible organization system, here is where I will organize my playlists!
 For those who have their own youtube/streaming sites, I have added those as well.  
-
+<!--
 [comment]: <> (
 {{< gallery caption-position="center"  caption-effect="fade">}} 
 {{< figure src="/img/taiko/hayashi_pro.jpeg" link="https://www.youtube.com/playlist?list=PLq3C37CNbgXNl22VZgJoxIPLNW4qLv4YQ" size="600x800" caption="Hayashi Eitetsu (C:M.Tominaga)" >}}
@@ -45,4 +45,4 @@ Either uncategorized or doesn't fit my categories
 * [LATI COVID courses](https://sites.google.com/view/latixcovid-19/)
 * [Dokokara Course with Yuta Kato](https://www.youtube.com/playlist?list=PLmqCLyBTXaehq8wfCZvtvMYxQp0lVSxa0)
 * [Odaiko Fundamentals with Isaku Kageyama](https://www.youtube.com/playlist?list=PLOvTleOrOE3-PqipRbClmNa1AITM9jr2A)
-    
+   --> 
