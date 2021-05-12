@@ -29,7 +29,9 @@ Click the link to learn more!
 
 * Spin Statistics Theorem [[PDF (2019)]]() with R. Abbott and B. Church
 ## Teaching
-I am currently a Graduate Student Instructor (GSI) for Fall 2020 PHYS 7B Physics for Scientis and Engineers.
+I was a teaching assistant in undergrad and in my first year as a PhD:
+
+- Spring 2021 GSI for PHYS 7B 
 
 - Fall 2020 GSI for PHYS 7B 
 
