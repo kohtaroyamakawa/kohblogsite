@@ -8,7 +8,7 @@ I'm definitely more of a reader than a writer.  Like all people, I have some opi
 
 Back in the day, CDs and albums belonged on bookshelves as well... so if you want to know what I listen to, my spotify is [here.](https://open.spotify.com/user/kohyamakawa?si=bcdsjHoWQgOAW2cCaCKXfA)
 
-# [Physics Books](/bookshelf/physics/)
-# [Normal Books](/bookshelf/normal/)
+ [Physics Books](/bookshelf/physics/)
+ [Normal Books](/bookshelf/normal/)
 
 

@@ -1,6 +1,8 @@
 ---
 title: "Taiko"
-date: 2020-12-24T14:41:45-08:00
+date: 2020-12-24T14:32:51-08:00
 draft: false
+#menu: main
 ---
-A taiko blog.
+This is my Taiko blog!
+

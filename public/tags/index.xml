@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Koh Yamakawa</title>
+    <title>Tags on </title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Koh Yamakawa</description>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 May 2021 21:53:53 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -35,15 +35,6 @@
     </item>
     
     <item>
-      <title>Year1</title>
-      <link>/tags/year1/</link>
-      <pubDate>Tue, 23 Feb 2021 00:25:34 -0800</pubDate>
-      
-      <guid>/tags/year1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Columbia</title>
       <link>/tags/columbia/</link>
       <pubDate>Sat, 30 Jan 2021 00:16:01 -0800</pubDate>
@@ -58,6 +49,15 @@
       <pubDate>Sat, 30 Jan 2021 00:16:01 -0800</pubDate>
       
       <guid>/tags/top-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Tue, 22 Dec 2020 21:26:00 -0800</pubDate>
+      
+      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     

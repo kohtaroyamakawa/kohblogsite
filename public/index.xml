@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Koh Yamakawa</title>
+    <title></title>
     <link>/</link>
-    <description>Recent content on Koh Yamakawa</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Dec 2020 21:25:48 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -24,16 +24,6 @@ The main problem all GSI’s faced during the fall of 2020 was engagement. Tryin
       
       <guid>/posts/onlineclasses/</guid>
       <description>Finding a way to get through online classes whether you&amp;rsquo;re a teacher or a student is important. When you&amp;rsquo;re on a few or 10 Zoom meetings a day, here&amp;rsquo;s some things that helped me out in getting through. On average, I spent around 15 hours a week teaching, another 10-15 hours of watching talks and lectures, and a few mor hours to hang out with friends. Here&amp;rsquo;s some tips and tricks to help you get through the day!</description>
-    </item>
-    
-    <item>
-      <title>Year 1: Feb</title>
-      <link>/posts/year1_feb/</link>
-      <pubDate>Tue, 23 Feb 2021 00:25:34 -0800</pubDate>
-      
-      <guid>/posts/year1_feb/</guid>
-      <description>Some new things happened this week. I got permissions to start work at LBNL and on campus.
-My became aware of the fantastic world of fractons, finally figured out what Tomonaga Luttinger liqudis were, and became more familiar with the Kitaev model. I&amp;rsquo;ve found myself getting more and more interested in 2D materials and finding out the connection between quantum spin liquids and other strongly correlated systems like unconventional superconductors. I am interested in how abelian/non-abelian anyons may come out of kitaev spin liquids and how they are related to the fact that the QSL must be described by a Conformal Field Theory with central charge c&amp;lt;1/2.</description>
     </item>
     
     <item>
@@ -79,10 +69,10 @@ This last year has been an ordeal. I had graduated Columbia at the beginning of 
     
     <item>
       <title>Starting a Taiko site</title>
-      <link>/taiko/firstpost/</link>
+      <link>/taiko/posts/taikosite/</link>
       <pubDate>Thu, 24 Dec 2020 14:32:51 -0800</pubDate>
       
-      <guid>/taiko/firstpost/</guid>
+      <guid>/taiko/posts/taikosite/</guid>
       <description>Under inspiration from the superb personal site of Kris Bergstrom, I&amp;rsquo;ll start curating my first personal site on Taiko. I don&amp;rsquo;t aim really to give any instruction or information to any students but I might post some useful links and thoughts that I&amp;rsquo;ve had on my Taiko journey!
 Documenting and publishing, albeit to an audience of measure zero, is a process that I want to immerse myself in both so that I can look back on my own progress in the future and maybe even organize my thoughts.</description>
     </item>
@@ -99,16 +89,23 @@ Background    I started playing Taiko with the Dublin Taiko Group in Dublin, Ohi
     
     <item>
       <title>Bookshelf</title>
-      <link>/bookshelf/physics/</link>
+      <link>/bookshelf/</link>
       <pubDate>Tue, 22 Dec 2020 21:26:00 -0800</pubDate>
       
-      <guid>/bookshelf/physics/</guid>
-      <description>The road to learning physics meanders. Here&amp;rsquo;s some literature to help on the way.
-Mechanics     Goldstein  Quantum Mechanics    Griffiths Shankar
-Statistical Mechanics    Kittel- Basics and no more
-Electromagnetism    Griffiths Jackson
-Condensed Matter    Kittel Ashcroft and Mermin Girvin
-Quantum Field Theory    Blundell</description>
+      <guid>/bookshelf/</guid>
+      <description>I&amp;rsquo;m definitely more of a reader than a writer. Like all people, I have some opinions.
+Back in the day, CDs and albums belonged on bookshelves as well&amp;hellip; so if you want to know what I listen to, my spotify is here.
+Physics Books Normal Books</description>
+    </item>
+    
+    <item>
+      <title>Physics Bookshelf</title>
+      <link>/posts/bookshelf/physicsbooks/</link>
+      <pubDate>Tue, 22 Dec 2020 21:26:00 -0800</pubDate>
+      
+      <guid>/posts/bookshelf/physicsbooks/</guid>
+      <description>The road to learning physics is full of pitstops and bad diction. Here&amp;rsquo;s some literature to help on the way.
+Mechanics     D. Morin&amp;rsquo;s Mechanics H. Goldstein&amp;rsquo;s Classical Mechanics  Quantum Mechanics     D. Griffiths&#39; Introduction to Quantum Mechanics R. Shankar&amp;rsquo;s Principles of Quantum Mechanics S. Weinberg&amp;rsquo;s Lectures on Quantum Mechanics R. Littlejohn&amp;rsquo;s [Lecture Notes]  Electromagnetism     D. Griffiths&#39; Introduction to Electrodynamics J.</description>
     </item>
     
     <item>

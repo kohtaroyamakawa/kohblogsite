@@ -30,23 +30,18 @@ Click the link to learn more!
 
 {{< right >}} <a href= "https://doi.org/10.1103/PhysRevB.97.224508"> [Phys. Rev. B. (2018)] </a> {{< /right >}}
 
+<!--
+* {{< lrlink left="Disentangling superconducting and magnetic orders in NaFe1−xNixAs using muon spin rotation" right="[Phys. Rev. B. (2018)]" link= "/manuscripts/z2spinliquid2021.pdf" >}}  
+-->
 ## Manuscripts
 
-* Z<sub>2</sub> Spin Liquids and Mott Insulators 
 
-{{< right >}} <a href= "/manuscripts/z2spinliquid2021.pdf"> [PDF(2021)] </a> {{< /right >}}
+* {{< lrlink left="Z2 Spin Liquids and Mott Insulators" right="[PDF(2021)]" link= "/manuscripts/z2spinliquid2021.pdf" >}}  
+* {{< lrlink left="Conformal Symmetry and 2D RG" right= "[PDF(2020)]" link= "/manuscripts/cft2020.pdf" >}}
+* {{< lrlink left="Spontaneous Symmetry Breaking with J. Staunton" right= "[PDF(2020)]" link= "/manuscripts/ssb2020.pdf" >}}
+* {{< lrlink left="Spin statistics Theorem with R. Abbott and B. Church" right= "[PDF(2020)]" link= "/manuscripts/sst2020.pdf" >}}
 
-* Conformal Symmetry and 2D RG 
 
-{{< right >}} <a href= "/manuscripts/cft2020.pdf"> [PDF(2020)] </a> {{< /right >}}
-
-* Spontaneous Symmetry Breaking with J. Staunton
-
-{{< right >}} <a href= "/manuscripts/ssb2020.pdf"> [PDF(2020)] </a> {{< /right >}}
-
-* Spin Statistics Theorem with R. Abbott and B. Church
-
-{{< right >}} <a href= "/manuscripts/sst2019.pdf"> [PDF(2020)] </a> {{< /right >}}
 
 ## Teaching
 I was a teaching assistant in undergrad and in my first year as a PhD:

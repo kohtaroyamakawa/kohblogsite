@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taiko on Koh Yamakawa</title>
+    <title>Taiko on </title>
     <link>/taiko/</link>
-    <description>Recent content in Taiko on Koh Yamakawa</description>
+    <description>Recent content in Taiko on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 14:41:45 -0800</lastBuildDate><atom:link href="/taiko/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 14:32:51 -0800</lastBuildDate><atom:link href="/taiko/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Starting a Taiko site</title>
-      <link>/taiko/firstpost/</link>
+      <link>/taiko/posts/taikosite/</link>
       <pubDate>Thu, 24 Dec 2020 14:32:51 -0800</pubDate>
       
-      <guid>/taiko/firstpost/</guid>
+      <guid>/taiko/posts/taikosite/</guid>
       <description>Under inspiration from the superb personal site of Kris Bergstrom, I&amp;rsquo;ll start curating my first personal site on Taiko. I don&amp;rsquo;t aim really to give any instruction or information to any students but I might post some useful links and thoughts that I&amp;rsquo;ve had on my Taiko journey!
 Documenting and publishing, albeit to an audience of measure zero, is a process that I want to immerse myself in both so that I can look back on my own progress in the future and maybe even organize my thoughts.</description>
     </item>

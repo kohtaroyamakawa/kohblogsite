@@ -17,8 +17,9 @@ I'll try to write about taiko here in my [taiko blog.](/taiko)  I'm also super p
 
 # Compositions
 
-## Hyakujyuu no Ou
+##### Hyakujyuu no Ou
 A Columbia University Taiko piece.  Watch it on [Youtube](https://www.youtube.com/watch?v=i8a4Ly1mwZo&list=PLq3C37CNbgXPqzAsh5O37KCuJxUI_TgdW&index=4&t=14s)
 
-## Zubon 
+##### Zubon 
 A work in progress based on Childish Gambino's _Sweatpants_.
+

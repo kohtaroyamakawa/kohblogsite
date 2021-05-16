@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Koh Yamakawa</title>
+    <title>Categories on </title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Koh Yamakawa</description>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 May 2021 21:53:53 -0700</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,15 @@
       <pubDate>Sat, 30 Jan 2021 00:16:01 -0800</pubDate>
       
       <guid>/categories/undergrad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bookshelf</title>
+      <link>/categories/bookshelf/</link>
+      <pubDate>Tue, 22 Dec 2020 21:26:00 -0800</pubDate>
+      
+      <guid>/categories/bookshelf/</guid>
       <description></description>
     </item>
     

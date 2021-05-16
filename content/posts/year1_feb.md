@@ -1,7 +1,7 @@
 ---
-title: "Year 1: Feb"
+title: "Year 1: February"
 date: 2021-02-23T00:25:34-08:00
-draft: false
+draft: true
 author: "Koh Yamakawa"
 tags: [ "Berkeley","COVID","Year1" ]
 categories: [ "PhD" ]

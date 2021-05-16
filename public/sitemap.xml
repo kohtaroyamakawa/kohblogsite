@@ -48,16 +48,6 @@
   </url>
   
   <url>
-    <loc>/posts/year1_feb/</loc>
-    <lastmod>2021-02-23T00:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/year1/</loc>
-    <lastmod>2021-02-23T00:25:34-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/year1_winterbreak/</loc>
     <lastmod>2021-01-30T15:29:27-08:00</lastmod>
   </url>
@@ -93,12 +83,7 @@
   </url>
   
   <url>
-    <loc>/taiko/</loc>
-    <lastmod>2020-12-24T14:41:45-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/taiko/firstpost/</loc>
+    <loc>/taiko/posts/taikosite/</loc>
     <lastmod>2020-12-24T14:32:51-08:00</lastmod>
   </url>
   
@@ -108,12 +93,27 @@
   </url>
   
   <url>
+    <loc>/taiko/</loc>
+    <lastmod>2020-12-24T14:32:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2020-12-22T21:26:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/bookshelf/</loc>
+    <lastmod>2020-12-22T21:26:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/bookshelf/</loc>
     <lastmod>2020-12-22T21:26:00-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/bookshelf/physics/</loc>
+    <loc>/posts/bookshelf/physicsbooks/</loc>
     <lastmod>2020-12-22T21:26:00-08:00</lastmod>
   </url>
   
