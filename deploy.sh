@@ -9,6 +9,8 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 # Build the project.
 #hugo -D # if using a theme, replace with `hugo -t <YOURTHEME>`
 hugo
+
+
 # Gi push on to original
 git add .
 msg="rebuilding site $(date)"
@@ -23,8 +25,6 @@ printf "\033[0;32mAdding to Github pages...\033[0m\n"
 cp -r public/* ../kohtaroyamakawa.github.io
 cd ../kohtaroyamakawa.github.io
 
-#No jekyll error
-touch .nojekyll
 
 # Add changes to git.
 git add .
