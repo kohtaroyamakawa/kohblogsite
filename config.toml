@@ -19,6 +19,10 @@ enableRobotsTXT = true
 colorScheme = "auto"
 # Hide the toggle button, along with the associated vertical divider
 hideColorSchemeToggle = false
+#[markup]
+#  [markup.goldmark]
+#    [markup.goldmark.renderer]
+#      unsafe = true
 [menu]
   [[menu.main]]
     name = "Home"

@@ -111,18 +111,5 @@ Condensed Matter    Kittel Ashcroft and Mermin Girvin
 Quantum Field Theory    Blundell</description>
     </item>
     
-    <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Tue, 22 Dec 2020 21:15:49 -0800</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hello! I am a physics PhD student at UC Berkeley. I graduated Dublin Scioto HS in 2016 and Columbia University in 2020 with a major in physics and mathematics.
-Here is my Resume and CV
-Publications    Click the link to learn more!
-  Two-Dimensional Time-Reversal-Invariant Topological Insulators via Fredholm Theory [Math. Physics 2020]
-  Probing the quantum phase transition in Mott insulator BaCoS2 tuned by pressure and Ni substitution [Phys.</description>
-    </item>
-    
   </channel>
 </rss>
