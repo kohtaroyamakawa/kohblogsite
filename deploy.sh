@@ -22,6 +22,10 @@ printf "\033[0;32mAdding to Github pages...\033[0m\n"
 # Go To Public folder
 cp -r public/* ../kohtaroyamakawa.github.io
 cd ../kohtaroyamakawa.github.io
+
+#No jekyll error
+touch .nojekyll
+
 # Add changes to git.
 git add .
 
