@@ -47,7 +47,7 @@ You've made it!  You're done now.  Now picking a graduate school is the next bes
 How do you choose which graduate school to look for?  This is a personal decision and I think people focus on intellectual and social merits of different departments in different ways.  I don't have much to say here.
 Some things to consider for academic success:
 
-- Pick an advisor with a personality you get along with
+- Pick an advisor with a personality you get along with.  No one wants to be stuck working with someone they dislike for 4-5 years.
 
 - Look at the most recent (last few years) publications to see if they interest you. 
 
