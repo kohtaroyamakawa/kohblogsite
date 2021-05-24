@@ -30,13 +30,12 @@ Statistical mechanics, on the other hand, is a precise field which I hope to und
 In terms of research, I continued to attend the group meetings of Professor Analytis and plan on working with him over the summer.  His research group focuses a lot on strongly correlated materials, topological insulators, and spintronics.  I know a lot about the first two and very little about the last.  Hopefully I can show you all what I've been up to soon!
 
 -Koh 
+
 A gallery:
 {{< load-photoswipe >}}
 
-{{< figure src="https://lh3.googleusercontent.com/pw/ACtC-3eiv_Dt-YgN1jtk4Ezg7RXkdhsAI-vZoVlth2ddzdgcxaa0kAmJdtC1BoT88A7ri5x43j1qtf7zQ1dPYdeCPvA-peBZ2Viqpu_8-wF2cLYcU980pxzHJq_tYqD2AaXawuHYUgwwshU6S6HuUBhPRG0iyg=w1194-h897-no?authuser=1" caption= "Me and my parents at Ault Park Cherry Grove April 2nd, 20201" 
->}}
 
-{{< figure src="https://lh3.googleusercontent.com/pw/ACtC-3eiv_Dt-YgN1jtk4Ezg7RXkdhsAI-vZoVlth2ddzdgcxaa0kAmJdtC1BoT88A7ri5x43j1qtf7zQ1dPYdeCPvA-peBZ2Viqpu_8-wF2cLYcU980pxzHJq_tYqD2AaXawuHYUgwwshU6S6HuUBhPRG0iyg=w1194-h897-no?authuser=1" caption= "Me and my parents at Ault Park Cherry Grove April 2nd, 20201" 
+{{< figure src="https://lh3.googleusercontent.com/pw/ACtC-3eiv_Dt-YgN1jtk4Ezg7RXkdhsAI-vZoVlth2ddzdgcxaa0kAmJdtC1BoT88A7ri5x43j1qtf7zQ1dPYdeCPvA-peBZ2Viqpu_8-wF2cLYcU980pxzHJq_tYqD2AaXawuHYUgwwshU6S6HuUBhPRG0iyg=w1194-h897-no?authuser=1" caption= "Me and my parents at Ault Park Cherry Grove April 2nd, 2021" 
 >}}
 
 {{< figure src="https://lh3.googleusercontent.com/pw/ACtC-3cRzNxzRTcE4yqfB-U370KianoaNZj2EtLblJV6IIsQR43HaroiqO3lE6bSPG2o7_Y4svu9YMd-IiZJwqpzD4egrQJVDbqLdqx9GYS4BXh6sgAm7b5QCXSnbdsK0YzmprrAi8XE6gx1rAHa564woMH2Cg=w673-h897-no?authuser=1" caption="Me and James Analytis" >}}
