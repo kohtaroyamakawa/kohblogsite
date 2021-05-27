@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/berkeley/</loc>
-    <lastmod>2021-05-22T09:53:28-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/</loc>
-    <lastmod>2021-05-22T09:53:28-07:00</lastmod>
+    <lastmod>2021-05-27T00:06:31-07:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2021-05-27T00:06:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/community/</loc>
+    <lastmod>2021-05-27T00:06:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/taiko/freeingthebeat/</loc>
+    <lastmod>2021-05-27T00:06:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/improv/</loc>
+    <lastmod>2021-05-27T00:06:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-27T00:06:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/taiko/</loc>
+    <lastmod>2021-05-27T00:06:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/berkeley/</loc>
     <lastmod>2021-05-22T09:53:28-07:00</lastmod>
   </url>
   
@@ -29,11 +54,6 @@
   
   <url>
     <loc>/categories/phd/</loc>
-    <lastmod>2021-05-22T09:53:28-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-05-22T09:53:28-07:00</lastmod>
   </url>
   
@@ -103,7 +123,12 @@
   </url>
   
   <url>
-    <loc>/taiko/posts/taikosite/</loc>
+    <loc>/categories/miscellaneous/</loc>
+    <lastmod>2020-12-24T14:32:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/taiko/taikosite/</loc>
     <lastmod>2020-12-24T14:32:51-08:00</lastmod>
   </url>
   
@@ -140,6 +165,21 @@
   <url>
     <loc>/about/</loc>
     <lastmod>2020-12-22T21:15:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/form/</loc>
+    <lastmod>2020-08-24T23:50:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/music/</loc>
+    <lastmod>2020-08-24T23:50:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/taiko/musicandform/</loc>
+    <lastmod>2020-08-24T23:50:50-07:00</lastmod>
   </url>
   
   <url>

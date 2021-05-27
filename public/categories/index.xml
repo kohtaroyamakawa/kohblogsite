@@ -6,7 +6,25 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 May 2021 09:53:28 -0700</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 May 2021 00:06:31 -0700</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Community</title>
+      <link>/categories/community/</link>
+      <pubDate>Thu, 27 May 2021 00:06:31 -0700</pubDate>
+      
+      <guid>/categories/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improv</title>
+      <link>/categories/improv/</link>
+      <pubDate>Thu, 27 May 2021 00:06:31 -0700</pubDate>
+      
+      <guid>/categories/improv/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>PhD</title>
       <link>/categories/phd/</link>
@@ -26,11 +44,29 @@
     </item>
     
     <item>
+      <title>Miscellaneous</title>
+      <link>/categories/miscellaneous/</link>
+      <pubDate>Thu, 24 Dec 2020 14:32:51 -0800</pubDate>
+      
+      <guid>/categories/miscellaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bookshelf</title>
       <link>/categories/bookshelf/</link>
       <pubDate>Tue, 22 Dec 2020 21:26:00 -0800</pubDate>
       
       <guid>/categories/bookshelf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/categories/music/</link>
+      <pubDate>Mon, 24 Aug 2020 23:50:50 -0700</pubDate>
+      
+      <guid>/categories/music/</guid>
       <description></description>
     </item>
     

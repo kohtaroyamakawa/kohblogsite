@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on </title>
+    <link>/categories/music/</link>
+    <description>Recent content in Music on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Aug 2020 23:50:50 -0700</lastBuildDate><atom:link href="/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taiko as Music and Form</title>
+      <link>/posts/taiko/musicandform/</link>
+      <pubDate>Mon, 24 Aug 2020 23:50:50 -0700</pubDate>
+      
+      <guid>/posts/taiko/musicandform/</guid>
+      <description>I recall the words of Tsuji Tasuku, member of Eitetsu Fuunkai: &amp;ldquo;If you play Taiko like a drumset, why don&amp;rsquo;t you use a drumset instead?&amp;rdquo; He didn&amp;rsquo;t mean that all Taiko pieces need to be loud, but that something about the Taiko must be essential to its playing. Indeed, utilizing nagado daiko, shime, or uchiwa to create a backbeat that is replaceable with a western drum set with the same effect, feels like a waste.</description>
+    </item>
+    
+  </channel>
+</rss>

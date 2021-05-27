@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taiko on </title>
+    <link>/tags/taiko/</link>
+    <description>Recent content in Taiko on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 May 2021 00:06:31 -0700</lastBuildDate><atom:link href="/tags/taiko/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Freeing The Beat</title>
+      <link>/posts/taiko/freeingthebeat/</link>
+      <pubDate>Thu, 27 May 2021 00:06:31 -0700</pubDate>
+      
+      <guid>/posts/taiko/freeingthebeat/</guid>
+      <description>A proposal to solve a problem I find myself in.
+There is a awkward-nesss in American Taiko. When someone tries to join a Taiko group, it is an investment in time and energy. There is no established canon1 that you immediately play with this new group. You usually don’t know their repertoire. For the state of Taiko in America, where most groups only meet once a week, it is hard to join a group without investing a good deal of effort— as it should be!</description>
+    </item>
+    
+    <item>
+      <title>Starting a Taiko site</title>
+      <link>/posts/taiko/taikosite/</link>
+      <pubDate>Thu, 24 Dec 2020 14:32:51 -0800</pubDate>
+      
+      <guid>/posts/taiko/taikosite/</guid>
+      <description>Under inspiration from the superb personal site of Kris Bergstrom, I&amp;rsquo;ll start curating my first personal site on Taiko. I don&amp;rsquo;t aim really to give any instruction or information to any students but I might post some useful links and thoughts that I&amp;rsquo;ve had on my Taiko journey!
+Documenting and publishing, albeit to an audience of measure zero, is a process that I want to immerse myself in both so that I can look back on my own progress in the future and maybe even organize my thoughts.</description>
+    </item>
+    
+    <item>
+      <title>Taiko as Music and Form</title>
+      <link>/posts/taiko/musicandform/</link>
+      <pubDate>Mon, 24 Aug 2020 23:50:50 -0700</pubDate>
+      
+      <guid>/posts/taiko/musicandform/</guid>
+      <description>I recall the words of Tsuji Tasuku, member of Eitetsu Fuunkai: &amp;ldquo;If you play Taiko like a drumset, why don&amp;rsquo;t you use a drumset instead?&amp;rdquo; He didn&amp;rsquo;t mean that all Taiko pieces need to be loud, but that something about the Taiko must be essential to its playing. Indeed, utilizing nagado daiko, shime, or uchiwa to create a backbeat that is replaceable with a western drum set with the same effect, feels like a waste.</description>
+    </item>
+    
+  </channel>
+</rss>

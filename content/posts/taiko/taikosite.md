@@ -2,6 +2,9 @@
 title: "Starting a Taiko site"
 date: 2020-12-24T14:32:51-08:00
 draft: false
+author: "Koh Yamakawa"
+tags: [Taiko,]
+categories: [Miscellaneous,]
 ---
 Under inspiration from the superb personal site of Kris Bergstrom, I'll start curating my first personal site on Taiko.  I don't aim really to give any instruction or information to any students but I might post some useful links and thoughts that I've had on my Taiko journey!
 
