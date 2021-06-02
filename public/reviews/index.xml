@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on </title>
+    <link>/reviews/</link>
+    <description>Recent content in Reviews on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jun 2021 11:05:31 -0700</lastBuildDate><atom:link href="/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Teaching Reviews</title>
+      <link>/reviews/myteaching/</link>
+      <pubDate>Wed, 02 Jun 2021 10:58:15 -0700</pubDate>
+      
+      <guid>/reviews/myteaching/</guid>
+      <description>Some fun reviews I&amp;rsquo;ve received while teaching, the good and the bad but not too ugly.
+Physics 7B    Praise     In the beginning, God created Physics. But Physics was vicious, so God created Koh, the bastion of defense against all misunderstood attributes of thermodynamics and circuit boards. Koh is Love. Koh is Life. He is an extremely talented GSI who comes prepared every session with worksheets that are so helpful, even other GSIs steal them from him.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+
+<div style="text-align: left;">
+    {{ range .Site.Pages }}
+      {{ if in .Params.tags "Taiko" }}
+        <b>
+        {{ .Title }} <br/>
+        </b>
+      {{ end }}
+     {{ end }}
+</div>

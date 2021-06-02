@@ -44,7 +44,7 @@ Click the link to learn more!
 
 
 ## Teaching
-I was a teaching assistant in undergrad and in my first year as a PhD:
+I was a teaching assistant in undergrad and in my first year as a PhD.  Some of my [favorite reviews](/reviews/myteaching)
 
 Spring 2021 GSI for PHYS 7B 
 

@@ -1,0 +1,6 @@
+<!-- layouts/partials/tags.html -->
+{{ range .Site.Pages }}
+  {{ if in .Params.tags "mytag" }}
+    {{ .Title }}
+  {{ end }}
+ {{ end }}
