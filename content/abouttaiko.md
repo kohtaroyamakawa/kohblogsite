@@ -23,4 +23,6 @@ A Columbia University Taiko piece.  Watch it on [Youtube](https://www.youtube.co
 ##### Zubon 
 A work in progress based on Childish Gambino's _Sweatpants_.
 
+<!--
 {{< tags >}}
+-->

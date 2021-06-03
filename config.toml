@@ -2,7 +2,6 @@ ttle = "Koh Yamakawa"
 #Commented out so that doesn't repeat baseURL with menu items
 #baseURL = "kohtaroyamakawa.github.io"
 languageCode = "en-us"
-#theme = "ananke"
 theme = "hugo-coder"
 themesDir = "./themes/"
 
@@ -12,13 +11,13 @@ pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
-Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 10 
 googleAnalytics = "G-STR339FTKR"
 enableRobotsTXT = true
 
 colorScheme = "auto"
 # Hide the toggle button, along with the associated vertical divider
-hideColorSchemeToggle = false
+#hideColorSchemeToggle = false
 #[markup]
 #  [markup.goldmark]
 #    [markup.goldmark.renderer]
