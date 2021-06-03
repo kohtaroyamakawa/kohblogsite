@@ -12,7 +12,7 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 Paginate = 10 
-googleAnalytics = "G-STR339FTKR"
+googleAnalytics = "UA-198567669-2"
 enableRobotsTXT = true
 
 colorScheme = "auto"
