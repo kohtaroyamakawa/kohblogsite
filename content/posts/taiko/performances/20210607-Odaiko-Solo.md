@@ -18,3 +18,6 @@ categories: [CU Taiko, Online, COVID]
 **Video Shot by**: Isaku Kageyama
 
 **Location**: Isaku Kageyama studio (North Hollywood)
+
+**Thoughts on my playing**
+
