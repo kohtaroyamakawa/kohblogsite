@@ -6,7 +6,34 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Jun 2021 10:58:15 -0700</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jun 2021 17:01:40 -0700</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID</title>
+      <link>/categories/covid/</link>
+      <pubDate>Fri, 18 Jun 2021 17:01:40 -0700</pubDate>
+      
+      <guid>/categories/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CU Taiko</title>
+      <link>/categories/cu-taiko/</link>
+      <pubDate>Fri, 18 Jun 2021 17:01:40 -0700</pubDate>
+      
+      <guid>/categories/cu-taiko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>/categories/online/</link>
+      <pubDate>Fri, 18 Jun 2021 17:01:40 -0700</pubDate>
+      
+      <guid>/categories/online/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>PhD</title>
       <link>/categories/phd/</link>
@@ -22,33 +49,6 @@
       <pubDate>Wed, 02 Jun 2021 10:58:15 -0700</pubDate>
       
       <guid>/categories/reviews/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COVID</title>
-      <link>/categories/covid/</link>
-      <pubDate>Thu, 27 May 2021 19:17:55 -0700</pubDate>
-      
-      <guid>/categories/covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CU Taiko</title>
-      <link>/categories/cu-taiko/</link>
-      <pubDate>Thu, 27 May 2021 19:17:55 -0700</pubDate>
-      
-      <guid>/categories/cu-taiko/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online</title>
-      <link>/categories/online/</link>
-      <pubDate>Thu, 27 May 2021 19:17:55 -0700</pubDate>
-      
-      <guid>/categories/online/</guid>
       <description></description>
     </item>
     
