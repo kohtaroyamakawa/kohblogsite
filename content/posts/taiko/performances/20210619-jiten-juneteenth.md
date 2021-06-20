@@ -18,15 +18,18 @@ categories: [CU Taiko, Online, COVID]
 * Kyle Graycar
 * Joel Graycar
 
-**Shime Players**:
+**Shime**:
 * Susanna Elledge
 * Galen Rogers
+
+**Narimono**:
+* Tyler Devlin
 
 **Taught by**: Isaku Kageyama
 
 **Video Shot by**: Ali Kakawa
 
-**Location**: 762 Fulton Street at Juneteenth festival
+**Location**: 762 Fulton Street at Juneteenth Corvette caravan
 
 **Thoughts on my playing**:
 
